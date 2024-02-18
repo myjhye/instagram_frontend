@@ -1,4 +1,4 @@
-import HomeRight from "../../components/HomeRight/HomeRight";
+import HomeRight from "../../components/homeRight/HomeRight";
 import PostCard from "../../components/post/PostCard";
 import StoryCircle from "../../components/story/StoryCircle";
 
