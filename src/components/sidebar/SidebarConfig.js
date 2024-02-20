@@ -16,42 +16,42 @@ import { CgProfile } from 'react-icons/cg';
 
 export const menu = [
     {
-        title: "홈",
+        title: "Home",
         icon: <AiOutlineHome className="text-2xl mr-5" />,
         isActiveIcon: <AiFillHome className="text-2xl mr-5" />
     },
     {
-        title: "검색",
+        title: "Search",
         icon: <AiOutlineSearch className="text-2xl mr-5" />,
         isActiveIcon: <AiOutlineSearch className="text-2xl mr-5" />
     },
     {
-        title: "탐색 탭",
+        title: "Explore",
         icon: <AiOutlineCompass className="text-2xl mr-5" />,
         isActiveIcon: <AiFillCompass className="text-2xl mr-5" />
     },
     {
-        title: "릴스",
+        title: "Reels",
         icon: <RiVideoLine className="text-2xl mr-5" />,
         isActiveIcon: <RiVideoFill className="text-2xl mr-5" />
     },
     {
-        title: "메시지",
+        title: "Message",
         icon: <AiOutlineMessage className="text-2xl mr-5" />,
         isActiveIcon: <AiFillMessage className="text-2xl mr-5" />
     },
     {
-        title: "알람",
+        title: "Notification",
         icon: <AiOutlineHeart className="text-2xl mr-5" />,
         isActiveIcon: <AiFillHeart className="text-2xl mr-5" />
     },
     {
-        title: "만들기",
+        title: "Create",
         icon: <AiOutlinePlusCircle className="text-2xl mr-5" />,
         isActiveIcon: <AiFillPlusCircle className="text-2xl mr-5" />
     },
     {
-        title: "프로필",
+        title: "Profile",
         icon: <CgProfile className="text-2xl mr-5" />,
         isActiveIcon: <CgProfile className="text-2xl mr-5" />
     },
